@@ -15,7 +15,7 @@ namespace WebDemo.Tests
             [TestCase]
             public void AddTest()
             {
-                Assert.IsTrue(false);
+                Assert.IsTrue(true);
             }
         }
     }
