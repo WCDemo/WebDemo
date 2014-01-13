@@ -1,0 +1,1 @@
+﻿C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe ".\WebDemo.csproj" /p:DeployOnBuild=true /p:PublishProfile=Production /p:PublishProfile="wccdemoazure.pubxml" /p:VisualStudioVersion=12.0 /p:Password="6qR1fdpq8exJq1W6cj7azqcyYMvo0L8ll84k6l0TBRwX5WgxbCHgQdMQygrf" /p:AllowUntrustedCertificate=true
