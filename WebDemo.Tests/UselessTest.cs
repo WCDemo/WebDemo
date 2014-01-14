@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WebDemo.Models;
 
 namespace WebDemo.Tests
 {
@@ -15,7 +16,11 @@ namespace WebDemo.Tests
             [TestCase]
             public void AddTest()
             {
-                Assert.IsTrue(true);
+                var i = new ImportantClass();
+
+                var nr = i.Add(2, 2);
+
+                Assert.AreEqual(4, nr);
             }
         }
     }
