@@ -18,7 +18,7 @@ namespace WebDemo.Tests
             {
                 var i = new ImportantClass();
 
-                var nr = i.Add(2, 2);
+                var nr = i.Add(2, 5);
 
                 Assert.AreEqual(4, nr);
             }
