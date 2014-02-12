@@ -1,0 +1,11 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<Import Project="WebDemo.csproj"/>
+  <PropertyGroup>
+    <DeployOnBuild>true</DeployOnBuild>
+    <PublishProfile>Properties\PublishProfiles\wccdemoazure.pubxml</PublishProfile>
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+    <Password>6qR1fdpq8exJq1W6cj7azqcyYMvo0L8ll84k6l0TBRwX5WgxbCHgQdMQygrf</Password>
+    <AllowUntrustedCertificate>true</AllowUntrustedCertificate>
+  </PropertyGroup>
+</Project>
+
