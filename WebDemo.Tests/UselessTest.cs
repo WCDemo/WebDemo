@@ -20,7 +20,7 @@ namespace WebDemo.Tests
 
                 var nr = i.Add(2, 2);
 
-                Assert.AreEqual(4, nr);
+                Assert.AreEqual(5, nr);
             }
         }
     }
