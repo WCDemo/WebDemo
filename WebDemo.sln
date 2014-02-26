@@ -12,10 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0F54B6
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{0CFD2E93-D902-4947-811D-63A469849EDA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{730E0CA7-CCD6-41AC-988A-EE6D8D3121A3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDemoMSTest.Tests", "WebDemoMSTest.Tests\WebDemoMSTest.Tests.csproj", "{377CAA0A-401C-49BB-B09D-105CC6FFDAE6}"
 EndProject
 Global
@@ -32,14 +28,6 @@ Global
 		{C9CF869D-6A13-4ED4-B386-DAADF3E91378}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9CF869D-6A13-4ED4-B386-DAADF3E91378}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9CF869D-6A13-4ED4-B386-DAADF3E91378}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0CFD2E93-D902-4947-811D-63A469849EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CFD2E93-D902-4947-811D-63A469849EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CFD2E93-D902-4947-811D-63A469849EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CFD2E93-D902-4947-811D-63A469849EDA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{730E0CA7-CCD6-41AC-988A-EE6D8D3121A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{730E0CA7-CCD6-41AC-988A-EE6D8D3121A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{730E0CA7-CCD6-41AC-988A-EE6D8D3121A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{730E0CA7-CCD6-41AC-988A-EE6D8D3121A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{377CAA0A-401C-49BB-B09D-105CC6FFDAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{377CAA0A-401C-49BB-B09D-105CC6FFDAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377CAA0A-401C-49BB-B09D-105CC6FFDAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
